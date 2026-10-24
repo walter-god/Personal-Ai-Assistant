@@ -1,0 +1,6 @@
+{
+  "name": "Aetherius - Personal AI Assistant & Automation Engine",
+  "description": "Executive personal AI assistant with document search, role-based permission control, task & reminder automation, enterprise integrations, and subscription tiers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
